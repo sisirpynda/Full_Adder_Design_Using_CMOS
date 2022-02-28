@@ -75,7 +75,7 @@ here we are running the simulation for 40us in order to cover all the 8 input te
 
 ## Netlist
 
-the netlist can be found here(https://github.com/sisirpynda/Full_Adder_Design_Using_CMOS/blob/main/primesim.txt)
+the netlist can be found [here](https://github.com/sisirpynda/Full_Adder_Design_Using_CMOS/blob/main/primesim.txt)
 
 ## Author
 ## Acknowledgements
