@@ -53,6 +53,15 @@ we can also see that whenevr the cout is 1 the sum is 0 except for the last case
 
 These are the 2 equations implemented as 2 sections in the above image connected together in order to obtain the addition outputs.
 
+![image](https://user-images.githubusercontent.com/50233470/156037222-3043969b-c0ad-4359-b2e4-7fe80742693d.png)
+#### Carry Block
+
+![image](https://user-images.githubusercontent.com/50233470/156037373-5fb00a82-7f61-4ab1-a595-500d5474f09f.png)
+#### Sum Block
+
+![image](https://user-images.githubusercontent.com/50233470/156037461-56630204-8a76-4557-8aa9-54ba78ddae92.png)
+#### image for better vizualization of the whole circuit
+
 ## Symbol
 ![full_adder_symbol](https://user-images.githubusercontent.com/50233470/156025682-f8ff6499-9178-4df8-b8ed-952c7367abc1.png)
 
