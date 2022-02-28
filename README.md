@@ -40,8 +40,9 @@ The Full Adder Circuit is Intended to find the result of binary addition of 3 bi
 
 In the image above is the Conventional Full Adder Circuit consisting of 28 MOSFETS, it consists of 2 blocks namely SUM and Carry, to calculate the carry result we need 12 MOSFETS, for calculating sum result we need 16 MOSFETS, one some of whose inputs include carry. We can observe that the sum path is longer than carry path ans is thus delayed. 
 
-We ca arrive at this Circuit in an intuitive manner:
-if we take a look at the ###truth table### of the full adder circuit 
+### We ca arrive at this Circuit in an intuitive manner:
+
+if we take a look at the ***truth table*** of the full adder circuit 
 
 ![image](https://user-images.githubusercontent.com/50233470/156029748-a28d1729-b5c4-40a1-97bb-6181dfa00bfe.png)
 
