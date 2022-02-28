@@ -37,8 +37,14 @@ Full Adders is used to compute a n bit value result. Other common circuits that 
 ![full_adder_scematic](https://user-images.githubusercontent.com/50233470/156015228-8f340724-ed3b-4fa4-8cc8-40557113d23e.png)
 
 ## Symbol
+![full_adder_symbol](https://user-images.githubusercontent.com/50233470/156025682-f8ff6499-9178-4df8-b8ed-952c7367abc1.png)
+
 ## Testbench
+![full_adder_testbench](https://user-images.githubusercontent.com/50233470/156025725-b473ec37-785f-45b9-af22-2d3b7161b924.png)
+
 ## Simulation Results
+![Final_waveform](https://user-images.githubusercontent.com/50233470/156025759-2c3f3d94-7e12-4db6-af58-b36c12927e45.png)
+
 ## Transistor Count for each Block
 ## Netlist
 ## Author
