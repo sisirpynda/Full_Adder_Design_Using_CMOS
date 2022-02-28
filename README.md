@@ -47,9 +47,9 @@ if we take a look at the ***truth table*** of the full adder circuit
 
 ![image](https://user-images.githubusercontent.com/50233470/156029748-a28d1729-b5c4-40a1-97bb-6181dfa00bfe.png)
 
-We find out that the carry to be 1 atleat 2 inputs are needed which are 1, we can write *Carry = AB +BC +CA* which can again be rewritten as *Carry = AB + C(A + B)* by taking C common, this is what we implement for carry output in our DUT.
+We find out that the carry to be 1 atleat 2 inputs are needed which are 1, we can write "*Carry = AB +BC +CA*" which can again be rewritten as "*Carry = AB + C(A + B)*" by taking C common, this is what we implement for carry output in our DUT.
 
-we can also see that whenevr the cout is 1 the sum is 0 except for the last case(111), but we cannot tale the cout as determining factor for sum as in case of (000) sum is 0, so we take these 2 cases and arrive at  *Sum = ABC + (A + B + C)Cout* 
+we can also see that whenevr the cout is 1 the sum is 0 except for the last case(111), but we cannot tale the cout as determining factor for sum as in case of (000) sum is 0, so we take these 2 cases and arrive at "*Sum = ABC + (A + B + C)Cout*" 
 
 These are the 2 equations implemented as 2 sections in the above image connected together in order to obtain the addition outputs.
 
