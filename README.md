@@ -57,17 +57,17 @@ These are the 2 equations implemented as 2 sections in the above image connected
 
 
 ![image](https://user-images.githubusercontent.com/50233470/156037222-3043969b-c0ad-4359-b2e4-7fe80742693d.png)
-#### Carry Block/
+#### Carry Block
 
-
+<br />
 
 ![image](https://user-images.githubusercontent.com/50233470/156037373-5fb00a82-7f61-4ab1-a595-500d5474f09f.png)
-#### Sum Block/
+#### Sum Block
 
-
+<br />
 
 ![image](https://user-images.githubusercontent.com/50233470/156037461-56630204-8a76-4557-8aa9-54ba78ddae92.png)
-#### image for better vizualization of the whole circuit/
+#### image for better vizualization of the whole circuit
 
 
 ## Symbol
