@@ -34,6 +34,7 @@ Full Adders is used to compute a n bit value result. Other common circuits that 
 
 
 ## Full Adder Implementation Using CMOS Logic
+<>
 ## Symbol
 ## Testbench
 ## Simulation Results
