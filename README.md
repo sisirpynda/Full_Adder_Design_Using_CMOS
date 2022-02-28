@@ -42,6 +42,7 @@ In the image above is the Conventional Full Adder Circuit consisting of 28 MOSFE
 
 We ca arrive at this Circuit in an intuitive manner:
 if we take a look at the ###truth table### of the full adder circuit 
+
 ![image](https://user-images.githubusercontent.com/50233470/156029748-a28d1729-b5c4-40a1-97bb-6181dfa00bfe.png)
 
 We find out that the carry to be 1 atleat 2 inputs are needed which are 1, we can write *Carry = AB +BC +CA* which can again be rewritten as *Carry = AB + C(A + B)* by taking C common, this is what we implement for carry output in our DUT.
