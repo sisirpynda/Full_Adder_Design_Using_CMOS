@@ -78,5 +78,26 @@ here we are running the simulation for 40us in order to cover all the 8 input te
 the netlist can be found [here](https://github.com/sisirpynda/Full_Adder_Design_Using_CMOS/blob/main/primesim.txt)
 
 ## Author
+
+[Sisir Pynda](www.linkedin.com/in/sisir-pynda-8655a8176), B.Tech Electronics and Communication, Vellore Institute of Technology, Vellore, Tamil Nadu.
+
 ## Acknowledgements
+
+[Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.](https://www.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836/)
+[Cloud Based Analog IC Design Hackathon](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)
+[Synopsys India](https://www.synopsys.com/)
+
 ## References
+
+[1] G. Eason, B. Noble, and I. N. Sneddon, “On certain integrals of 
+Lipschitz-Hankel type involving products of Bessel functions,” Phil. 
+Trans. Roy. Soc. London, vol. A247, pp. 529–551, April 1955. 
+(references)
+
+[2] Neil H.Weste, Harris, A. Banerjee, “CMOS VLSI Design, A circuits 
+and System Perspective”, 2014, Fourth Edition, Pearson Education, 
+Noida
+
+[3] https://www.vlsisystemdesign.com/ip/
+
+
