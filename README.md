@@ -36,6 +36,10 @@ Full Adders is used to compute a n bit value result. Other common circuits that 
 ## Full Adder Implementation Using CMOS Logic
 ![full_adder_scematic](https://user-images.githubusercontent.com/50233470/156015228-8f340724-ed3b-4fa4-8cc8-40557113d23e.png)
 
+The Full Adder Circuit is Intended to find the result of binary addition of 3 bits, the output appears as Sum and Carry this can be used to add multi bit numbers(eg. 8 bit adders, etc.) where carry propagates from LSB to MSB as it finds the sum result, the inputs can be given as 2s complement to the adder inn order to compute the subtraction result.
+
+In the image above is the Conventional Full Adder Circuit consisting of 28 MOSFETS, it consists of 2 blocks namely SUM and Carry, to calculate the carry result we need 12 MOSFETS, for calculating sum result we need 16 MOSFETS, one some of whose inputs include carry. We can observe that the sum path is longer than carry path ans is thus delayed. 
+
 ## Symbol
 ![full_adder_symbol](https://user-images.githubusercontent.com/50233470/156025682-f8ff6499-9178-4df8-b8ed-952c7367abc1.png)
 
