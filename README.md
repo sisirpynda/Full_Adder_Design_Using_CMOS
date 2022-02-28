@@ -58,6 +58,9 @@ These are the 2 equations implemented as 2 sections in the above image connected
 ## Testbench
 ![full_adder_testbench](https://user-images.githubusercontent.com/50233470/156025725-b473ec37-785f-45b9-af22-2d3b7161b924.png)
 
+## Primewave Window
+![test_suite](https://user-images.githubusercontent.com/50233470/156032468-3ebb85c8-820e-449c-b164-7c3f33b34c08.png)
+
 ## Simulation Results
 ![Final_waveform](https://user-images.githubusercontent.com/50233470/156025759-2c3f3d94-7e12-4db6-af58-b36c12927e45.png)
 
