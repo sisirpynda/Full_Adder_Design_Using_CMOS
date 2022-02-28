@@ -66,9 +66,6 @@ These are the 2 equations implemented as 2 sections in the above image connected
 
 <br />
 
-![image](https://user-images.githubusercontent.com/50233470/156037461-56630204-8a76-4557-8aa9-54ba78ddae92.png)
-#### image for better vizualization of the whole circuit
-
 
 ## Symbol
 ![full_adder_symbol](https://user-images.githubusercontent.com/50233470/156025682-f8ff6499-9178-4df8-b8ed-952c7367abc1.png)
