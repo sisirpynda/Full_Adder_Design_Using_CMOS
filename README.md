@@ -19,12 +19,15 @@ This repository presents the Design and Simulation of Full Adder Circuit Impleme
 
 
 ## Abstract
-The conventional Full Adder Circuit consists of 2 blocks one for sun calculation and other for carry calculation, the output of the carry operation is used as an input for the sum block.
-
+The conventional Full Adder Circuit consists of 2 blocks one for sum calculation and other for carry calculation, the output of the carry operation is used as an input for the sum block.
 
 ## Introduction
 The Full Adder Circuit is 3 input circuit which computes the binary addition result of the three inputs, it is sub part of many circuits like Ripple Carry Adders where an array of 
 Full Adders is used to compute a n bit value result. Other common circuits that use Full adders are ALU, Multipliers.
+
+The Tool used to implement the logic is Synopsys Custom Compiler, along with Synopsys Primewave. the Custom compiler tool provides desig entry, simulation management and analysis and custom layout editing features. It is developed to deliver cutting edge productivity, performance and ease of use.
+
+The Technology node used is 32nm which is the one following 45nm process. "32-nanometre" refers to the average half-pitch (i.e., half the distance between identical features) of a memory cell at this technology level. The 28-nanometre node was an intermediate half-node die shrink based on the 32-nanometre process. The 32 nm process was superseded by commercial 22 nm technology in 2012. During its time it came with its own benifits like, The 32nm process technology with second generation high-k + metal gate transistors enabled designers to optimize for size, performance and power simultaneously. 
 
 
 ## Tool Used
